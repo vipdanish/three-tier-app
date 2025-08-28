@@ -1,6 +1,5 @@
 
-# Three-Tier Web Application
-![Last Commit](https://img.shields.io/github/last-commit/vipdanish/three-tier-app)
+# Three-Tier Web Application Deployment 
 ![License](https://img.shields.io/github/license/vipdanish/three-tier-app)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
