@@ -8,7 +8,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?logo=amazon-aws&logoColor=white)
 ![EKS](https://img.shields.io/badge/EKS-FF9900?logo=amazon-aws&logoColor=white)
 ![ECR](https://img.shields.io/badge/ECR-FF9900?logo=amazon-aws&logoColor=white)
@@ -166,20 +165,3 @@ eksctl delete cluster --name three-tier-cluster --region us-west-2
 
 For any queries or issues, open an **issue** in this repository.
 
----
-
-Happy Coding! 🚀👨‍💻👩‍💻
-
-```
-
----
-
-✅ **Next steps to make it complete:**
-1. Add a **screenshot** of your running app in `screenshot.png` in the repo root.  
-2. Replace `<your-username>` and `<repo-name>` in badges with your GitHub info.  
-3. Optional: Add a **GIF demo** to make it even more impressive.  
-
-If you want, I can **also add a “Tech Stack Section with logos + short descriptions”** to make it even more portfolio-friendly for recruiters.  
-
-Do you want me to do that?
-```
